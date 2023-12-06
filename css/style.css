@@ -379,7 +379,7 @@ select {
   .header__image_title {
     width: 100%;
     line-height: 1;
-    font-size: 2rem;
+    font-size: 30px;
     padding: 0.5rem;
     margin: 0;
     text-align: end;
@@ -391,8 +391,8 @@ select {
     justify-self: center;
     z-index: 999;
     line-height: 1;
-    padding: 0 1rem;
-    font-size: 18px;
+    padding: 0 4px;
+    font-size: 1rem;
   }
 
   .header_logo {
